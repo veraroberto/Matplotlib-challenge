@@ -1,8 +1,7 @@
 # Matplotlib-challenge
 
-<img src="images/boxPlot.png"
-     alt="Capomulin"
-     style="float: left; margin-right: 10px;" />
+![Capomulin](images/boxPlot.png)
+
 
 
 
