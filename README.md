@@ -20,22 +20,26 @@ Process and workflow of the analysis for this Project
     - ![Capomulin](images/boxPlot.png)
 5. Some General observations of the Data
     
-    ![image](images/PieChartMale_v_Female.png)
+![image](images/PieChartMale_v_Female.png)
     
-    ![image](images/TumorNumberperRegimen.png)
+![image](images/TumorNumberperRegimen.png)
     
-    ![image](images/TumorVolumeperRegimen.png)
+![image](images/TumorVolumeperRegimen.png)
 
 
 
 6.	As an example, it was chosen to do an analysis the mouse with the ID: s185 and the Drug Regimen Capomulin
 7.	For this, it was created the following plots
     - Linear Plot of Tumor Volume (mm3) vs Timepoint
-    - ![Capmoulin](images/TumorVolume.png)
+
+
+![Capmoulin](images/TumorVolume.png)
     
     - Scatter Plot of Tumor Volume vs Weight
-    - ![Scatte Plot](images/scatter.png)
-    - ![Scatter Plot](images/scatterCorelation.png)
+
+![Scatte Plot](images/scatter.png)
+
+![Scatter Plot](images/scatterCorelation.png)
 
 
 
